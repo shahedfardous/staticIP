@@ -102,7 +102,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## 📄 License
 
-MIT License - feel free to use in your projects!
+GPL-3.0 license - feel free to use in your projects!
 
 ## ⭐ Support
 
